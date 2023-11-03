@@ -27,16 +27,17 @@ const Header = () => {
       style={{boxShadow: headerShadow}}
     >
       <div className={`innerWidth ${css.container} flexCenter`}>
-      <div className={css.name}><a href="#">Amorii7</a></div>
+      <div className={css.name}>Amorii7</div>
         <ul
           className={`flexCenter ${css.menu}`}
           ref={menuRef}
           style={getMenuStyles(menuOpened)}
         >
+          <li><a href="#">Home</a></li>
           <li><a href="#experties">Services</a></li>
           <li><a href="#work">Experience</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#people">Testimonials</a></li>
+          <li><a href="#people">Education</a></li>
           <li className={`flexCenter ${css.phone}`}>
             <p>+383 43 734 849</p>
             <BiPhoneCall size={"40px"} />
