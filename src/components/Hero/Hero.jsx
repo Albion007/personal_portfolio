@@ -30,8 +30,17 @@ const Hero = () => {
           <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./1.png" alt="" />
         </motion.div>
 
-        <a className={css.email} href="mailto:albionmorina44@gmail.com">
-          albionmorina44@gmail.com
+        <br></br>
+        <a className={css.email} href="mailto:albionmorina44@gmail.com" target="_blank" rel="noopener noreferrer">
+          GMail
+        </a>
+        <br></br>
+        <a className={css.github} href="https://github.com/Albion007" target="_blank" rel="noopener noreferrer">
+          GitHub
+        </a>
+        <br></br>
+        <a className={css.linkedin} href="https://www.linkedin.com/in/albion-morina-aa3911212/" target="_blank" rel="noopener noreferrer">
+          Linkedin
         </a>
 
         <div className={css.lowerElements}>
