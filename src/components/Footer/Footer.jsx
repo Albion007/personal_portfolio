@@ -16,26 +16,21 @@ const Footer = () => {
       variants={footerVariants}
       className={`innerWidth yPaddings flexCenter ${css.container}`}>
         <div className={css.left}>
-          <span className="primaryText">
-            Let's make something <br />
-            amazing together.
+          <span style={{ fontSize: 30 }}>
+            Whether it's a project, a dream, or a new endeavor, <br/> let's bring it to life in a way that exceeds your expectations. 
           </span>
           <span className="primaryText">
-            Start by <a href="mailto:zainkeepscode@gmail.com">saying hi</a>
+            Start by <a href="mailto:albionmorina@gmail.com">contacting me!</a>
           </span>
         </div>
 
         <div className={css.right}>
           <div className={css.info}>
             <span className="secondaryText">Information</span>
-            <p>145 New York, FL 5467, USA</p>
+            <p><li>Prishtinë</li></p><br/>
+            <p><li>Kosova</li></p><br/>
+            <p><li>+38343734849</li></p>
           </div>
-          <ul className={css.menu}>
-            <li>Services</li>
-            <li>Works</li>
-            <li>Notes</li>
-            <li>Experience</li>
-          </ul>
         </div>
       </motion.div>
     </motion.section>
