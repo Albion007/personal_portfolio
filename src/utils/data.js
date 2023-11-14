@@ -3,20 +3,20 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Website Design",
-    projects: 76,
+    name: "Modern Website Design",
+    projects: 20,
     icon: HiOutlineDesktopComputer,
-    bg: "#286F6C",
+    bg: "#286F6D",
   },
   {
     name: "Mobile App Design",
-    projects: 63,
+    projects: 2,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
-    projects: 47,
+    name: "Diploma and Certificates",
+    projects: 6,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
