@@ -23,31 +23,24 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
+  "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
   "We use process design to create digital products. Besides that also help their business",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "ISOFT - Intelligent Softwares",
+    tenure: "Jul 2023 - Current",
+    role: "Software Developer and IT Support",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "As a Software Developer and IT Support professional at current company, I play a dual role that allows me to leverage both my programming expertise and technical troubleshooting skills...",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Municipality of Malisheva",
+    tenure: "Nov 2020 - Mar 2021",
+    role: "IT Consultant",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
-  },
-  {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Responsible for the installations, support as well as management of all network technologies operating in 24/7 business environment...",
   },
 ];
 
