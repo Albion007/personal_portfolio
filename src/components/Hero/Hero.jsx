@@ -2,6 +2,8 @@ import React from "react";
 import { fadeIn, slideIn, staggerContainer } from "../../utils/motion";
 import css from "./Hero.module.scss";
 import { motion } from "framer-motion";
+import resume from './CV ALBION MORINA.pdf';
+
 const Hero = () => {
   return (
     <section className={`paddings ${css.wrapper}`}>
@@ -53,7 +55,7 @@ const Hero = () => {
           </motion.div>
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
-            <img src="./certificate.png" alt="" />
+            <a href={resume} download>RESUME</a>
             <span>Software Design</span>
             <span>Social Media and Web Technologies</span>
           </motion.div>
