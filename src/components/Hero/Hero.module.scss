@@ -85,11 +85,13 @@
             display: inline-block;
             font-size: 20px;
             transition-duration: 0.2s;
+            font-family: 'Cursive';
         }
 
                 .resume:hover {
                     background-color: rgb(87, 85, 85);
                     color: white;
+                    font-family: 'Cursive';
                 }
 
         .email {
