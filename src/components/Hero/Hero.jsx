@@ -20,8 +20,10 @@ const Hero = () => {
             <br />
             I'm Albion Morina.
           </motion.span>
-          <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
-            Software Developer and IT Support{" "}
+          <motion.span className="secondaryText" variants={fadeIn("left", "tween", 0.4, 1)}>
+            Software Developer and IT Support
+            <br></br>
+            <a href={resume} download className={css.resume}>RESUME</a>
           </motion.span>
         </div>
 
@@ -55,7 +57,6 @@ const Hero = () => {
           </motion.div>
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
-            <a href={resume} download>RESUME</a>
             <span>Software Design</span>
             <span>Social Media and Web Technologies</span>
           </motion.div>
