@@ -2,7 +2,7 @@ import React from "react";
 import { fadeIn, slideIn, staggerContainer } from "../../utils/motion";
 import css from "./Hero.module.scss";
 import { motion } from "framer-motion";
-import resume from './CV ALBION MORINA.pdf';
+import resume from './Albion Morina CV.pdf';
 
 const Hero = () => {
   return (
@@ -19,7 +19,6 @@ const Hero = () => {
             Hi,everyone!
             <br />
             I'm Albion Morina.
-            
           </motion.span>
           <motion.span className="secondaryText" variants={fadeIn("left", "tween", 0.4, 1)}>
             Software Developer and IT Support
@@ -35,8 +34,6 @@ const Hero = () => {
           <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./1.png" alt="" />
         </motion.div>
 
-        <motion.div
-          variants={fadeIn("up", "tween", 0.3, 1)}>
         <br></br>
         <a className={css.email} href="mailto:albionmorina44@gmail.com" target="_blank" rel="noopener noreferrer">
           GMail
@@ -47,9 +44,8 @@ const Hero = () => {
         </a>
         <br></br>
         <a className={css.linkedin} href="https://www.linkedin.com/in/albion-morina-aa3911212/" target="_blank" rel="noopener noreferrer">
-          LinkedIn
+          Linkedin
         </a>
-        </motion.div>
 
         <div className={css.lowerElements}>
           <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
