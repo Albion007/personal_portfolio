@@ -25,7 +25,6 @@ const People = () => {
           <p style={{ marginTop: "2rem" }}>
             This section is designed to provide comprehensive information about my various educational achievements and professional development opportunities.
           </p>
-          <p>The process of submitting an appilication was quite cosy</p>
         </div>
 
 
