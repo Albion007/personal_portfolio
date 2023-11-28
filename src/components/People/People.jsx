@@ -21,9 +21,9 @@ const People = () => {
 
 
         <div className={`flexCenter ${css.heading}`}>
-          <span className="primaryText">People talk about us</span>
+          <span className="primaryText">Diploma and Certificates</span>
           <p style={{ marginTop: "2rem" }}>
-            I got a job that was in accordance with the salary and field of work
+            This section is designed to provide comprehensive information about my various educational achievements and professional development opportunities.
           </p>
           <p>The process of submitting an appilication was quite cosy</p>
         </div>

@@ -23,8 +23,7 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  "I am committed to assisting you in discovering effective solutions and resolving your challenges.mMy approach involves utilizing process design to craft digital products, all while providing valuable support to enhance your business.",
 ];
 
 export const workExp = [
@@ -46,32 +45,32 @@ export const workExp = [
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Bachelor of Science in Computer Science (Bsc) - Software Design",
+    post: "University of Prizren, Kosovë",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "Was enrolled in the academic year 2018/2019. Completed my studies on 11 November 2021. Software Design. Total ECTS 180. Graduated 24 November 2021",
+    img: "./upzlogo.jpg",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Master in Social Media and Web Technologies",
+    post: "Linnaeus University, Vaxjo, Sweden",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+      "Was enrolled in the academic year 2022/2023. Completed 1 year Master studies on June 2023. Social Media and Web Technologies. Total ECTS 60.",
+    img: "./linne.jpg",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "The 2nd Summer School on CyberPhysical Systems and IoT (SS-CPSIoT'2021)",
+    post: "MECO, Budva, Montenegro",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "SS-CPS IoT'2021. 9th Mediterranean Conference on Embedded Computing CPS & IoT 2021. Budva, Montenegro. 07 - 10 June, 2021. Total ECTS 3. MECO 2021.",
+    img: "./meco.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Basics of Development with Flutter",
+    post: "Flossk and Ministry of culture, youth and sport, Prishtinë, Kosovë",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+      "Our journey began by delving into the fundamental aspects of the Flutter programming language, acquainting ourselves with its foundational elements.",
+    img: "./FLOSSK.png",
   },
   {
     name: "Anamika Sandula",
