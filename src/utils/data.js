@@ -77,7 +77,7 @@ export const comments = [
     post: "ROI Academy, Prishtinë, Kosovë",
     comment:
       "Coding the front-end of a website, i.e thepart that the user sees and interact with, ensuring responsive design, guide on strategy and learning how to use best practices.",
-    img: "./people2.png",
+    img: "./roi.png",
   },
 ];
 
