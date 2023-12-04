@@ -49,7 +49,7 @@ export const comments = [
     post: "University of Prizren, Kosovë",
     comment:
       "Was enrolled in the academic year 2018/2019. Completed my studies on 11 November 2021. Software Design. Total ECTS 180. Graduated 24 November 2021",
-    img: "./upzlogo.jpg",
+    img: "./upz logo.jpg",
   },
   {
     name: "Master in Social Media and Web Technologies",
