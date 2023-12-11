@@ -19,16 +19,16 @@ const Portfolio = () => {
         <motion.div variants={textVariant(.4)} className={`flexCenter ${css.heading}`}>
           <div>
             <span className="primaryText">Some of my projects</span>
-            <p style={{marginTop: "10px"}}>Perfect solution for web development</p>
+            <p style={{marginTop: "10px"}}>Perfect solution for Web and Mobile development</p>
           </div>
-          <span className="secondaryText">Explore more!</span>
+          <span className="secondaryText">Explore my GitHub for more!</span>
         </motion.div>
 
 
         <div className={`flexCenter ${css.showCase}`}>
-            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./showCase1.png" alt="project" />
-            <motion.img variants={fadeIn("up", "tween", .7, .6)} src="./showCase2.png" alt="project" />
-            <motion.img variants={fadeIn("up", "tween", .9, .6)} src="./showCase3.png" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./valencia.png" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .7, .6)} src="./frizerbledi.png" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .9, .6)} src="./imageresizer.png" alt="project" />
         </div>
       </div>
     </motion.section>
