@@ -22,7 +22,7 @@ const Portfolio = () => {
             <p style={{marginTop: "10px"}}>Perfect solution for Web and Mobile development</p>
           </div>
 
-          <span className="secondaryText">Explore my<a href="https://github.com/Albion007" target="_blank">GitHub</a>for more!</span>
+          <span className="secondaryText">Explore my<a href="https://github.com/Albion007" target="_blank"> GitHub </a>for more!</span>
         </motion.div>
 
         <div className={`flexCenter ${css.showCase}`}>
