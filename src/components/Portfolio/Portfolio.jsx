@@ -21,9 +21,9 @@ const Portfolio = () => {
             <span className="primaryText">Some of my projects</span>
             <p style={{marginTop: "10px"}}>Perfect solution for Web and Mobile development</p>
           </div>
-          <span className="secondaryText">Explore my GitHub for more!</span>
-        </motion.div>
 
+          <span className="secondaryText">Explore my<a href="https://github.com/Albion007" target="_blank">GitHub</a>for more!</span>
+        </motion.div>
 
         <div className={`flexCenter ${css.showCase}`}>
             <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./valencia.png" alt="project" />
