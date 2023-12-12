@@ -33,6 +33,12 @@ const Footer = () => {
           </div>
         </div>
       </motion.div>
+      <hr />
+        <div className="row" style={{ textAlign: 'center' }}>
+          <p className="col-sm">
+            &copy;{new Date().getFullYear()} Amorii7 | All rights reserved 
+          </p>
+        </div>
     </motion.section>
   );
 };
