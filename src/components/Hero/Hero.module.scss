@@ -112,7 +112,7 @@
                 (max-width: $md) {
                     position: relative;
                     left: 0;
-                    color: black;
+                    color: red;
                     background-size: 20rem;
                     display: flex;
                     align-items: center;
@@ -145,6 +145,7 @@
                     (max-width: $md) {
                         position: relative;
                         left: 0;
+                        color: blue;
                         background-size: 20rem;
                         display: flex;
                         align-items: center;
@@ -177,6 +178,7 @@
                 (max-width: $md) {
                     position: relative;
                     left: 0;
+                    color: black;
                     background-size: 20rem;
                     display: flex;
                     align-items: center;
