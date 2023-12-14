@@ -66,7 +66,11 @@
 
             .stats {
                 justify-content: flex-start;
-                gap: 4rem;
+                gap: 12rem;
+                border: 2px solid $secondary;
+                border-radius: 20px;
+                padding: 0.80rem;
+                transition: all 200ms ease-out;
 
                 .stat {
                     flex-direction: column;
