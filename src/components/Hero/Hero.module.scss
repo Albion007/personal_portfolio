@@ -43,6 +43,12 @@
                 display: flex;
                 flex-direction: column;
                 align-items: center;
+                justify-content: flex-start;
+                border: 2px solid $secondary;
+                border-radius: 20px;
+                padding: 0.80rem;
+                font-size: 20px;
+                transition: all 200ms ease-out;
 
                 img {
                     margin-bottom: 1rem;
@@ -77,8 +83,8 @@
         }
 
         .resume {
+            margin-left: 33%;
             right: 40%;
-            border: none;
             padding: 0% 40%;
             color: black;
             text-decoration: none;
@@ -86,12 +92,19 @@
             font-size: 20px;
             transition-duration: 0.2s;
             font-family: 'Cursive';
+            border: 2px solid $secondary;
+            border-radius: 20px;
+            padding: 0.80rem;
+            transition: all 200ms ease-out;
         }
 
                 .resume:hover {
                     background-color: rgb(87, 85, 85);
                     color: white;
                     font-family: 'Cursive';
+                    border: 2px solid $secondary;
+                    padding: 0.80rem;
+                    transition: all 200ms ease-out;
                 }
 
         .email {
