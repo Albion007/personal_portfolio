@@ -83,7 +83,7 @@
         }
 
         .resume {
-            margin-left: 33%;
+            margin-left: 20%;
             right: 40%;
             padding: 0% 40%;
             color: black;
@@ -99,7 +99,7 @@
         }
 
                 .resume:hover {
-                    background-color: rgb(87, 85, 85);
+                    background-color: $secondary;
                     color: white;
                     font-family: 'Cursive';
                     border: 2px solid $secondary;
