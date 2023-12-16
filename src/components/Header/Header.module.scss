@@ -12,7 +12,9 @@
     .container {
         position: relative;
         justify-content: space-between;
-        font-weight: 500;
+        font-weight: 550;
+        height: 80px;
+        box-shadow: 15px 6px 10px 2px;
 
         .name {
             font-size: 1.5rem;
@@ -42,6 +44,7 @@
                 padding: 3rem;
                 justify-content: flex-start;
                 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+                
             }
 
             text-transform: uppercase;
@@ -57,7 +60,9 @@
                 }
 
                 &:hover {
-                    color: $secondary;
+                    background: rgb(210, 223, 252);
+                    border-radius: 4px;
+                    transition: all 0.2s ease-in-out;
                 }
             }
 
