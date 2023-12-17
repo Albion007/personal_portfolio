@@ -35,6 +35,7 @@ const Hero = () => {
         </motion.div>
 
         <br></br>
+        
         <a className={css.email} href="mailto:albionmorina44@gmail.com" target="_blank" rel="noopener noreferrer">
           GMail
         </a>
