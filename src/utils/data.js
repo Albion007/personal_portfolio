@@ -23,7 +23,7 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I am committed to assisting you in discovering effective solutions and resolving your challenges. My approach involves utilizing process design to craft digital products, all while providing valuable support to enhance your business.",
+   "I am wholeheartedly committed to forming a collaborative partnership with you, aiming to unearth inventive solutions and tackle the challenges your business may encounter. My methodology extends beyond mere product development.",
 ];
 
 export const workExp = [
