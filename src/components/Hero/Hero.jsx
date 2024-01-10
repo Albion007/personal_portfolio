@@ -2,7 +2,7 @@ import React from "react";
 import { fadeIn, slideIn, staggerContainer } from "../../utils/motion";
 import css from "./Hero.module.scss";
 import { motion } from "framer-motion";
-import resume from './Albion Morina CV.pdf';
+import resume from './ALBION MORINA NEW (2).pdf';
 
 const Hero = () => {
   return (
